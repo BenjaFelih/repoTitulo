@@ -7,7 +7,5 @@ Ideal subir códigos para arduino
 Lista
 
 * hola
-
 * hola
-
-* qué tal
+  * qué tal
